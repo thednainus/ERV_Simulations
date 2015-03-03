@@ -6,3 +6,8 @@ I have also uploaded three Python classes (Random_functions.py, Tree_utilities.p
 
 The main codes simulates phylogenetic trees following variations of the Master and Transposon models of ERV/Transposable element evolution in host genomes.
 A paper has been recently submitted for publication, explaining in details these simulations. 
+
+
+___________________
+
+For reproduction or any form of use of this code should be acknowledged. 
