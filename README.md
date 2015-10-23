@@ -17,6 +17,7 @@ Obs. after installing ETE2 (depending on the way you decide to do it). Sometimes
 
 ___________________
 How to run the code?
+
 After installing Python and ETE2 package, go to the terminal and move to the directory where all the python codes were downloaded from GitHub.
 If file is a zip file, you should unzip the files first.
 
@@ -32,9 +33,10 @@ These messages start with "Elapsed time of first simulation is: ..."
 This is only to show that the code is running properly. You can uncomment the line responsible to print such messages in the terminal.
 
 These codes will generate lots of individual files that may starts with the following words: "Info", "subs_per_site" and "ultrametric".
-The "Info" files contain some information about the simulations
 
-The "subs_per_site" files contain phylogenetic trees in which branch lengths are represented in substitutions per sites
+The "Info" files contain some information about the simulations.
+
+The "subs_per_site" files contain phylogenetic trees in which branch lengths are represented in substitutions per sites.
 
 And the "ultrametric" files contain phylogenetic trees in which branch lengths are in host generations.
 
