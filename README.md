@@ -12,7 +12,7 @@ ___________________
 These codes requires the following Python version and packages
 Python version 2.7. These codes were not tested with Python version 3.0.
 
-Package ETE2: It can be downloaded at http://etetoolkit.org/download/
+Package ETE2.3.6: It can be downloaded at http://etetoolkit.org/download/
 Obs. after installing ETE2 (depending on the way you decide to do it). Sometimes when running the code, it will appear some messages saying that some packages are missing from the installation of ETE2 (for example package pyqt) . You can ignore these messages and the code should still be able to run.
 
 ___________________
